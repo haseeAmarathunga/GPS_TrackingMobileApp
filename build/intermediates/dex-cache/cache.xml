@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.1_ed69a46bbb2c0ee11a84a2d17e05e3fec826262e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_706917458dea049a9cfcd227c79ced999cbfb80a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.1_f2a71754991136c2c73c87ea6f80ea397456f9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.1_70f9b615d892362a365dd1e8b6854a000911c927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.1_cadc7eb40db54b05be15d8d4d03fa8fdda7e1179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.1_64d877869cdf852007db6e963ac9758bdc556f83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.0.1_73df18cc28eb80e904b3732c64d286c486bac67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.0.1_1ffc85143b6d6f5d530ec48f35c2595c4ba4b29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_08fd1baada2feeffb6a082cee7c10f6204f15521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_07f12dd1fb21b4b4998f598401ecc86eba91b374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.0.1_78a4e439e68047ce9461db034c827b30ed933f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.1_c82523cbc621e6aafd323ac82a1cca06b3ccce78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_12360b53bc7c99d854649cfe879a8cd93e6d863a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.0.1_97502564f99dd8f8e80d0b4847fe64b413f72c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.1_9cf30b2995170831bf04a3e0e1258d1011626247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.1_0903e6c5fd79a76b3072f3fb8e734d3e15a3cfbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.0.1_af20dc1d49640af611d9604667bc88e564821cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_2370d17c34531d11d0e953019cda998f6fd04d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_d1cba9435189c0056f80f00fd1251e60105bfe2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_082ab3f9dc29ab4517eb77c7f9814ab9370b3b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_464483f086e02a0bfe687af5a0cb67f79cca4e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.0.1_b1aed4d8503e3e46d480adc979516b9b8cac3d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_3c11a9a4e1067292a001c6556a9b14e9bb0ba278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.1_673d49dfb59c6e87a3cbd885cb8523044e4718d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_ab6126cb6f2e1c2c13b96381a2130bb54a22cc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_82ed009845ca8b0203f801de8d0e80f1ada94d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_ffc975f922520f61ccec0e12e11656b7717febdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_918ca937ef9177a4eac51288bf946e723567f8ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_34ae9e9ff76904905c92cbab7cfa3035e50f6d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_85caca24b43c1f905d4d383fe0bdc7f2da35be0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_76423f0b60c355a2ed361c6832939919d4bd66bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_b25f661c24408effda001a52a02828c2a3d1d3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.0.1_335500b3488720dee11f31043a0c80d4ec50f05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_087465b4a67817e269bfb9a433fda7c7fa6da86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.0.1_44e7f6fa587d8e320bfe1cb9f608cce6c6c28f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.0.1_aef2a73336ecbefbf055ae93abf5daa39dca1dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_3aa7eb4996156145ef37cf2cf82ad04f14a64018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6f13dfab67fea807f0c0efab29ccfff54a2078dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_29f5f68c88f45851ff9fd2a22044206af7e1da4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.1_3ff9188ed2780bb216f69c16218a2f92563bcaea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.1_e0c6ef70ef761a7197cea3e921be909cdc8a4795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_c40ad852487d85d69f9d1f68635f192d8e32b786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bdf7b6cbbfd3e56b24006d8f4e7afe8202fdb09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.0.1_9c2d34efc7255a67318fc3cc1c696156662bed26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_f00aff99545b4cfdb24e60cf199e185dcba93903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.0.1_1f3d8a3ba7854bff105415935da90f725b0cbfdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.0.1_b2eeee42cee9e77b000b64a8db3f2c71e4bada06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_d1f2a5fcdb6cfe93273bbb8c1d999b470cc58414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.1_0ec7eb399ecce67f7f2ae348e53fcbd4de639a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.0.1_a7fa4bfbbdd86a6815890e33e406a34baa1d4a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.1_1881dab08f0ba1b9c4d068157098c02ccd421f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.0.1_cccac0eb190948c3a4a2c176ea610c532016e0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3f7dd288cf104c836b3fc2a01a802049c3fcdc14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_b225fb4ad54decadb3cbc39340c23c485e5fd05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_f40b3fe6bffaac308825750b3df910c11cec0e6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.0.1_9502eb22fbf61e0a38d0795190747eccf3b678f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_dc47ca37719ed6206c2d86f5b1cb4199a6df7b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.1_3f837c003a3740c899d49a9b6f3781d4d2308a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.1_286844612968f05d1caeeaa348c70b9a773ba837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.1_c8a28d4b909070edf3cdd35a698d74b6963eabff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.0.1_ea73c432e56c70975b92dfdcec1156905102c98c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.0.1_995860f40debae91a9768f74ed1c5d5a50836109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_06a2a3c14147ea15ccb25f6c78e6a2dfecf272d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_8ca6c1c8dffce5f18579a2ad1771017cb0d45c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_2ed7aaafde03ac23bfaad09a88203a4513c16705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/android-studio/GPSTracking_System/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/android-studio/GPSTracking_System/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_c184c31b0b117f5e3b76d316b9075797797241e4.jar" />
+    </item>
+
+</items>
